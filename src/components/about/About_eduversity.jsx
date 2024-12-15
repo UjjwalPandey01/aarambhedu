@@ -64,8 +64,8 @@ const About_eduversity = () => {
           </div>
 
           {/* Vision, Mission, and Core Values */}
-          <div className="flex flex-col lg:flex-row justify-between my-8 space-y-6 lg:space-y-0   ">
-            <div className="w-full lg:w-[68%]">
+          <div className="flex flex-col lg:flex-row justify-between my-8 space-y-6 lg:space-y-0  space-x-1  ">
+            <div className="w-full lg:w-[65%]">
               <VisionMision />
               <CoreValues />
               {/* Marquee Section */}
