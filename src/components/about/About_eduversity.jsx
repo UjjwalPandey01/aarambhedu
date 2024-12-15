@@ -38,7 +38,7 @@ const About_eduversity = () => {
           {/* About Eduversity Section */}
           <div className="flex flex-col lg:flex-row justify-between space-y-6 lg:space-y-0 lg:space-x-8 ">
             {/* Brief Introduction */}
-            <div className="bg-white lg:w-3/4 w-full shadow-lg rounded-lg p-6 transition-transform transform">
+            <div className="bg-white lg:w-[65] w-full shadow-lg rounded-lg p-6 transition-transform transform">
               <h3 className="font-semibold text-lg text-[#85132c]">Brief Introduction to Aarambh Eduversity</h3>
               <p className="text-gray-600 mt-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
