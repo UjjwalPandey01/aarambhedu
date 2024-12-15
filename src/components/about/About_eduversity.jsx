@@ -33,10 +33,10 @@ const About_eduversity = () => {
       </header>
 
       {/* section */}
-      <section className="bg-gray-50 py-16 ">
+      <section className="bg-gray-50 py-16 px-6 lg:px-[9%] md:[8%]">
         <div className="container   ">
           {/* About Eduversity Section */}
-          <div className="flex flex-col lg:flex-row justify-between space-y-6 lg:space-y-0 lg:space-x-8 px-6 lg:px-[9%] md:[8%]">
+          <div className="flex flex-col lg:flex-row justify-between space-y-6 lg:space-y-0 lg:space-x-8 ">
             {/* Brief Introduction */}
             <div className="bg-white lg:w-3/4 w-full shadow-lg rounded-lg p-6 transition-transform transform">
               <h3 className="font-semibold text-lg text-[#85132c]">Brief Introduction to Aarambh Eduversity</h3>
@@ -64,7 +64,7 @@ const About_eduversity = () => {
           </div>
 
           {/* Vision, Mission, and Core Values */}
-          <div className="flex flex-col lg:flex-row justify-between my-8 space-y-6 lg:space-y-0   px-6 lg:px-[9%] md:[8%]">
+          <div className="flex flex-col lg:flex-row justify-between my-8 space-y-6 lg:space-y-0   ">
             <div className="w-full lg:w-[68%]">
               <VisionMision />
               <CoreValues />
@@ -112,7 +112,7 @@ const About_eduversity = () => {
             {/* right side start */}
            
             {/* Enrollment Form */}
-            <div className="w-full lg:w-[30%]">
+            <div className="w-full lg:w-[34%]">
               <div className="flex items-center justify-center  ">
                 <div className="bg-white shadow-lg rounded-lg p-6 max-w-md w-full">
                   <h2 className="text-xl font-semibold text-gray-800 mb-4">
